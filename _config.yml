@@ -1,0 +1,28 @@
+name: theflyingpint
+favicon: null
+layout_spectrum: 0.9478347806725651
+typography_spectrum: 0.8232709260191768
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.647596200928092
+  lightness: 0.513851682189852
+  saturation: 0.5737978569231927
+  rhythmicContrast: 0.035423798486590385
+purpose: []
